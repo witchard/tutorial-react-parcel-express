@@ -64,7 +64,10 @@ app.listen(3000, () => console.log('Listening on port 3000!'))
 ## Development with auto reloading
 
 * `npm run dev`
+* Visit http://localhost:3000
+* Change some files!
 
 ## Run
 
 * `npm start`
+* Visit http://localhost:3000
