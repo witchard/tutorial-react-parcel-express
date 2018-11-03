@@ -16,13 +16,13 @@
   "license": "MIT",
   "repository": "github:witchard/tutorial-react-parcel-express",
   "devDependencies": {
-    "concurrently": "^3.5.1",
-    "nodemon": "^1.17.3",
-    "parcel-bundler": "^1.7.0"
+    "concurrently": "^4.0.1",
+    "nodemon": "^1.18.5",
+    "parcel-bundler": "^1.10.3",
   },
   "dependencies": {
-    "express": "^4.16.3",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "express": "^4.16.4",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
   }
 }
