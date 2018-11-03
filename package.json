@@ -11,18 +11,23 @@
     "start": "npm run build && node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["tutorial", "react", "parcel", "express"],
+  "keywords": [
+    "tutorial",
+    "react",
+    "parcel",
+    "express"
+  ],
   "author": "witchard",
   "license": "MIT",
   "repository": "github:witchard/tutorial-react-parcel-express",
   "devDependencies": {
     "concurrently": "^4.0.1",
     "nodemon": "^1.18.5",
-    "parcel-bundler": "^1.10.3",
+    "parcel-bundler": "^1.10.3"
   },
   "dependencies": {
     "express": "^4.16.4",
     "react": "^16.6.0",
-    "react-dom": "^16.6.0",
+    "react-dom": "^16.6.0"
   }
 }
