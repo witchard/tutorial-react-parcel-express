@@ -19,7 +19,10 @@
   ],
   "author": "witchard",
   "license": "MIT",
-  "repository": "github:witchard/tutorial-react-parcel-express",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witchard/tutorial-react-parcel-express.git"
+  },
   "devDependencies": {
     "concurrently": "*",
     "nodemon": "*",
@@ -29,5 +32,9 @@
     "express": "*",
     "react": "*",
     "react-dom": "*"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/witchard/tutorial-react-parcel-express/issues"
+  },
+  "homepage": "https://github.com/witchard/tutorial-react-parcel-express#readme"
 }
