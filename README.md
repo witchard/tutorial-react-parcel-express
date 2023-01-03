@@ -1,5 +1,7 @@
 # Tutorial - express / parcel / react
 
+ARCHIVED AS NO LONGER MAINTAINING
+
 A tiny getting started for a react project, with front-end built with parcel, and served through express.
 
 ## Setup project
